@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30110.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSharp.Management.MsmqTypeProvider", "FSharp.Management.MsmqTypeProvider\FSharp.Management.MsmqTypeProvider.fsproj", "{3C79ED2D-0C8E-45F1-9649-A967447B767C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C79ED2D-0C8E-45F1-9649-A967447B767C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C79ED2D-0C8E-45F1-9649-A967447B767C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C79ED2D-0C8E-45F1-9649-A967447B767C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C79ED2D-0C8E-45F1-9649-A967447B767C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
